@@ -40,7 +40,7 @@ export default {
 <style lang="scss" scoped>
     .wrapper{
         width: 100%;
-        padding: 30px;
+        padding: 30px 0;
         margin: 0;
         display: flex;
         flex-direction: column;
@@ -48,7 +48,7 @@ export default {
     }
 
     .search{
-        width: 250px;
+        //width: 250px;
         display: flex;
         flex-direction: column;
         font-family: Montserrat, sans-serif;
