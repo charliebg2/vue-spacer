@@ -24,8 +24,6 @@ export default {
         background-image: url('../../assets/heroimage.jpg');
     }
 
-    
-
     .heroImage::after{
         position: absolute;
         content: '';
